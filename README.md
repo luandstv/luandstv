@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-```markdown
+
 <img width="auto" src="https://github.com/luandstv.png">
 
 # Luan Alves
@@ -33,4 +33,4 @@ Sou um Front end development student :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
-```
+
