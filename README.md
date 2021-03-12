@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img width="auto" src="https://github.com/luandstv.png"> 
+
 
 # Luan Alves
 
