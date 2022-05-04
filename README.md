@@ -31,6 +31,6 @@ Sou um Front end development student :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Zelda, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuanAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalves97/)](https://www.linkedin.com/in/luanalves97/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-luanalves.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanalves.dev@gmail.com)](mailto:luanalves.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luanalves.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)](mailto:luanalves.dev@gmail.com)
 
 
