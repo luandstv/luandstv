@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Sou apaixonado por tecnologia e por saber como as coisas funcionam e encontrei na programação tudo que eu sempre quis como profissão.
 Sou um Front end development student :computer:
 
- :rocket:  &nbsp; Estou trabalhando em uma empresa de produtos naturais **Distribuidora Renascer**
+ :rocket:  &nbsp; Estou trabalhando em uma Consultoria de Software **Gloabant**
  <br/> :purple_heart: &nbsp; Buscando me tornar um Dev Front end utilizando html, css, javascript e react 
  <br/> :computer: &nbsp; Estudando: ReactJS, HTML, CSS & Javascript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Zelda, LoL e seriados no Netflix
